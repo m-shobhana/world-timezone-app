@@ -36,7 +36,7 @@
 				<cloudHubDeployment>
 				<uri>https://anypoint.mulesoft.com</uri>
 				<objectStoreV2>true</objectStoreV2>
-				<username>shobhana_m</username>
+				<username>shobhana-m</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>MICRO</workerType>
